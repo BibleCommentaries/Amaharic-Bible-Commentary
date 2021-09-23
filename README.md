@@ -1,3 +1,4 @@
+# Amharic Bible Matthew Henry whole Commentary ማቲው ሄንሪ ሙሉ ሐተታ አማሃሪክ መጽሐፍ ቅዱስ
 Amharic Bible Matthew Henry whole Commentary 
 ማቲው ሄንሪ ሙሉ ሐተታ አማሃሪክ መጽሐፍ ቅዱስ
 https://github.com/BibleCommentaries/Amharic-Bible-Commentary/
